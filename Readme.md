@@ -1,3 +1,5 @@
+## Video tutorials of these codes are uploaded on the "Chai with code" YouTube channel.
+# Copyright - Hitesh Choudhary
 
 ## Kindly Read the MDN Documentation of the following tags mentioned in the Lectures.
 
@@ -13,7 +15,7 @@
 
   Lect 5: Styling of tags, Writing CSS under the head tag, quotation tags(backquote, q, abbr), address, cite, and bdo tags in HTML
 
-  Lect 6: Anchor tags and its attributes, image and picture tags, Mapping of picture on different areas of a picture
+  Lect 6: Anchor tags and their attributes, image and picture tags, Mapping of pictures on different areas of a picture
 
   Lect 7: Table tag and its styling in HTML
 
